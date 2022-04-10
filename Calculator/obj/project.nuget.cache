@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vZ/3lupGQbR+5GgnbI8+rhNU7DgraipDeFMvfC8k7J9evNuaD887gfQ8KvSjxwIf5g8WWiZiUa1nEt+m8Sm6FQ==",
+  "success": true,
+  "projectFilePath": "/Users/devkakaroto/Documents/C#/CourseBalta/Calculator/Calculator/Calculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/devkakaroto/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/devkakaroto/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.23/microsoft.netcore.app.host.osx-x64.3.1.23.nupkg.sha512",
+    "/Users/devkakaroto/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
